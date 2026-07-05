@@ -37,10 +37,6 @@ Katalon-technical-test/
 ├── Drivers/
 │   └── kafka-clients-4.3.1.jar       # Driver eksternal untuk koneksi Apache Kafka
 │
-├── Keywords/
-│   └── com/qa/kafka/
-│       └── KafkaConsumerHelper.groovy # Custom keyword Java/Groovy untuk Kafka Consumer
-│
 ├── Object Repository/
 │   ├── POST_Create_Post.rs           # REST Request untuk scenario Producer
 │   └── GET_Post_By_ID.rs             # REST Request untuk scenario Consumer
