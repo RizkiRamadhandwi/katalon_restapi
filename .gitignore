@@ -1,0 +1,12 @@
+.groovy/
+.settings/
+bin/
+Libs/
+Reports/
+*.log
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+.cache/
