@@ -32,7 +32,7 @@ Proyek ini mencakup pengujian backend end-to-end (E2E) yang dibagi menjadi dua s
 ## 📂 Struktur Proyek
 
 ```text
-Katalon-technical-test/
+Katalon_restapi/
 │
 ├── Drivers/
 │   └── kafka-clients-4.3.1.jar       # Driver eksternal untuk koneksi Apache Kafka
